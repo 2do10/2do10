@@ -1,10 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&desc=%20%20%20I'm%20Do10&fontAlign=90&fontAlignY=30&descSize=50&descAlign=95&descAlignY=40&rotate=20&fontSize=50&descSize=30)
-
-
-<div align=center fontSize=10>
-  <h1>:microphone: Introduction </h1>
-</div>
-
 <!--
 **2do10/2do10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&desc=%20%20%20I'm%20Do10&fontAlign=90&fontAlignY=30&descSize=50&descAlign=95&descAlignY=40&rotate=20&fontSize=50&descSize=30)
+
+
+<div align=center>
+<!-- 소개 -->
+##:microphone: Introduction
+Hi, Hello
+<br/><br/>
+
