@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&desc=%20%20%20I'm%20Do10&fontAlign=90&fontAlignY=30&descSize=50&descAlign=95&descAlignY=40&rotate=20&fontSize=50&descSize=30)
 
 
-<a><h1>:microphone: 안녕하세요! 한결같이 귀찮은 공부하는 인간입니다! :sleeping:</h1></a>
+<div align=center>
+  <h1>:microphone: Introduction </h1>
+  <h2>안녕하세요! 한결같이 귀찮은 공부하는 인간입니다! :sleeping:</h2>
+</div>
 
 <!--
 **2do10/2do10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
