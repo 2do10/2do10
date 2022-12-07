@@ -1,5 +1,4 @@
-<a href = https://capsule-render.vercel.app/api?>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=2do's github&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20do10&fontSize=90)
 
 
 ### Hi there 👋
