@@ -3,7 +3,6 @@
 
 <div align=center>
   <h1>:microphone: Introduction </h1>
-    <textarea type=fontsize=5>안녕하세요! 한결같이 귀찮은 공부하는 인간입니다! :sleeping:    </textarea>
 </div>
 
 <!--
