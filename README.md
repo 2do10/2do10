@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <!-- 소개 -->
 :microphone: Introduction 
 <br/>
-Hi, Hello.. :sleeping:
+Hi, I'm always a lazy person.. :sleeping:
 <br/><br/>
 
